@@ -1,1 +1,6 @@
 # mapanimation
+To create a webpage for real-time bus tracking, you will need to use a combination of HTML, CSS, and JavaScript. 
+# Requirment
+#The HTML and CSS can be used to create the layout and design of the webpage, while JavaScript can be used to retrieve and display the real-time data about the location and movements of the buses. This can be done by accessing a real-time data feed from a public transportation agency or by using a third-party API that provides this information. 
+#
+#Once you have retrieved the data, you can use JavaScript to update the webpage in real-time with the current location and movements of the buses.
